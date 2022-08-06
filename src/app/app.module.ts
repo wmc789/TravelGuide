@@ -6,11 +6,12 @@ import { AppComponent } from './app.component';
 import { SpainComponent } from './spain/spain.component';
 import { FranceComponent } from './france/france.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
     SpainComponent,
-    FranceComponent
+    FranceComponent,
   ],
   imports: [
     BrowserModule,
